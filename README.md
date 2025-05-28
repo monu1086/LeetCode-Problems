@@ -1,4 +1,4 @@
-# LeetCode DSA Problems
+# LeetCode Problems
 
 Welcome to my LeetCode Data Structures and Algorithms (DSA) repository! 🚀
 
